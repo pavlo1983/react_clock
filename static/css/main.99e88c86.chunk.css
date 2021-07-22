@@ -1,0 +1,2 @@
+.Container{text-align:center;justify-content:space-between}.App,.Container{display:flex;flex-direction:column}.App{margin:20px auto;padding:15px;width:400px;height:120px;font-size:1.5rem;background-color:#000;color:#fff}.App__button-wrapper{display:flex;justify-content:space-around;grid-gap:10px;gap:10px}.App__button{width:130px;height:60px;font-size:16px;font-weight:700;background-color:grey;color:#fff;border-radius:5px}.App__button:hover{cursor:pointer;color:#000}
+/*# sourceMappingURL=main.99e88c86.chunk.css.map */
